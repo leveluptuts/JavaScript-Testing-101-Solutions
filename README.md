@@ -9,7 +9,7 @@ https://www.leveluptutorials.com/store
 ## How To Use
 
 ```
-git clone https://github.com/stolinski/Level-Up-JavaScript-Testing-101.git
+git clone https://github.com/igocooper/JavaScript-Testing-101-Solutions.git
 cd Level-Up-JavaScript-Testing-101
 npm install
 npm test
